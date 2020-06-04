@@ -1,9 +1,9 @@
 .jumbotron {
   background-image:linear-gradient(rgb(243, 171, 14),rgb(255, 94, 0));
   color: #fff;
-  padding:300px 0px;
+  padding:0px auto;
   text-align: center;
-  height: 500px !important;
+  
 }
 
 
